@@ -16,7 +16,7 @@ Goal is to Reduce inventory in fictional Mint classics company
     
 ***Task 2:***
 
- Task 2 is to understand the mint classics database and understand how the tables are related to one and another using EER diagram(Entity Relationship Diagram).
+ Task 2 is to understand the mint classics database and understand how the tables are related to one and another using EER diagram(Enhanced Entity Relationship Diagram).
 
 ***Task 3:***
 
